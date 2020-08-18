@@ -5,7 +5,7 @@
  * @version 1.0.0 (17/08/2020)
  */
 
-const path = 'https://coronavirus-19-api.herokuapp.com/countries';
+const path = 'http://coronavirus-19-api.herokuapp.com/countries';
 
 const headers = {
     method: 'get',
